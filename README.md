@@ -10,7 +10,7 @@ RESOURCES
 
 ## Postgres Database
 
-We've created a database containing 20,000 datapoints. This database is read-only. The schema for the database is:
+The schema for the database is:
 
 ```sql
 CREATE TABLE reports (
